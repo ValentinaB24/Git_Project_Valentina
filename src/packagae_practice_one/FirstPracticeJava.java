@@ -7,4 +7,6 @@ public class FirstPracticeJava {
 
     //added first change
 
+    // second change
+
 }
